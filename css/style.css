@@ -5,7 +5,6 @@ body {
   background-attachment: fixed; /* Зафиксировать изображение на месте, чтобы оно не прокручивалось вместе со страницей */
   background-position: center;
   margin-top: 0;
-  
 }  
 .box  {
   width: 70%;
